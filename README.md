@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natnael Necho</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natinecho&label=Profile%20views&color=0e75b6&style=flat" alt="natinecho" /> </p>
  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsv2pxc2ocho6qa4xlq95.gif"/>
