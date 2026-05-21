@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natnael Necho</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natinecho&label=Profile%20views&color=0e75b6&style=flat" alt="natinecho" /> </p>
- <img src="https://github.com/user-attachments/assets/2e24fde1-7c58-4c46-8231-a2e4d8f37a64"/>
-
-
 - 📫 How to reach me **natnael.necho.w@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
